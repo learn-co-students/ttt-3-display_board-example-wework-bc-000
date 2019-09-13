@@ -4,7 +4,7 @@
 
 ## Objectives
 
-1. Define a method `display_board`
+1. Define a method `display_board'
 2. Print multiple formatted strings.
 
 ## Instructions
